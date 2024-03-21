@@ -3,9 +3,9 @@
 # 🔥 **carloshmarques/python-for-beginners**
 
 <div align="center">
-  <!-- Change your logo -->
-  <a href="https://github.com/carloshmarques/python-for-beginners">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/python-for-beginners's logo">
+   <!-- Change your logo -->
+  <a href="https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/">
+    <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/Build-.NET-applications-with-CSharp's logo">
   </a>
   <br>
   <a href="https://github.com/carloshmarques/python-for-beginners/issues">
@@ -58,7 +58,7 @@
 
 <!-- Change your small logo -->
 <a href="https://github.com/carloshmarques/python for-beginners">
-  <img alt="@carloshmarques/python for-beginners's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+  <img alt="@carloshmarques/python for-beginners's brand logo without text" align="right" src="https://i.imgur.com/i8hCIzh.jpg" width="10%" />
 </a>
 
 
@@ -67,7 +67,7 @@ We are currently looking for new donators to help and maintain this project! ❤
 By donating, you will help the development of this project, and *you will be featured in this python-for-beginners's README.md*, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-carloshmarques/python for-beginners-blue?logo=github-sponsors&style=for-the-badge&color=red">
+  <img alt="@carloshmarques/Build-.NET-applications-with-CSharp's brand logo without text" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red">
 </a>
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
@@ -84,7 +84,7 @@ python-for-beginners was generated from *[Josee9988/project-template](https://gi
 
 ---
 
-## 🎉 Was the learning tutorila from microsoft-learn[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dial[3~ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[2~l[D[D"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" helpful? Help us raise these numbers up
+## 🎉 Was the learning tutorial from microsoft-learn helpful? Help us raise these numbers up
 
 [![GitHub followers](https://img.shields.io/github/followers/carloshmarques.svg?style=social)](https://github.com/carloshmarques)
 [![GitHub stars](https://img.shields.io/github/stars/carloshmarques/python-for-beginners.svg?style=social)](https://github.com/carloshmarques/python-for-beginners/stargazers)
