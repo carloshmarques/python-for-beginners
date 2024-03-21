@@ -19,14 +19,30 @@
 ---
 
 ## 🤔 **About the project**
+ <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+### Get started with Python! Learn how to create programs and projects in Python. Work with strings, lists, loops, dictionaries, and functions
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+#### In this learning path, you'll
+
+* Write your first program in Python
+
+* Explore packages to better manage projects
+
+* Learn Python basics, including the following elements:
+
+Boolean types
+Strings
+Mathematical operations
+Lists and loops
+Dictionaries
+Functions
+Error checking
 
 ---
 
 ## ⚡ **Installation**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+<!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
 
 ---
 
