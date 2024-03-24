@@ -38,11 +38,14 @@ Dictionaries
 Functions
 Error checking
 
+### This repository is part of my code learning journey, on the Microsoft Learn website, it is just a record for the purposes of future consultation and updating as I progress in learning, all the code is the authorship of whoever created it. For more information click on the link in the top right corner in the section: About the Project.
+
 ---
 
 ## ⚡ **Installation**
 
 <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* To do this Python For beginners learning module, i'm using jupyter notebook extension and anaconda!
 
 ---
 
@@ -83,7 +86,7 @@ We are currently looking for new donators to help and maintain this project! ❤
 By donating, you will help the development of this project, and *you will be featured in this python-for-beginners's README.md*, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img alt="@carloshmarques/Build-.NET-applications-with-CSharp's brand logo without text" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red">
+  <img alt="@carloshmarques/python for-beginners brand logo without text" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red">
 </a>
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
