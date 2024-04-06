@@ -28,15 +28,15 @@
 
 * Explore packages to better manage projects
 
-* Learn Python basics, including the following elements:
+Learn Python basics, including the following elements:
 
-Boolean types
-Strings
-Mathematical operations
-Lists and loops
-Dictionaries
-Functions
-Error checking
+* Boolean types
+* Strings
+* Mathematical operations
+* Lists and loops
+* Dictionaries
+* Functions
+* Error checking
 
 ### This repository is part of my code learning journey, on the Microsoft Learn website, it is just a record for the purposes of future consultation and updating as I progress in learning, all the code is the authorship of whoever created it. For more information click on the link in the top right corner in the section: About the Project.
 
